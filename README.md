@@ -60,11 +60,11 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
+  <a href="https://youtu.be/j_1hHx_4bxw"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
 
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/hypermod)
+- [`SAWERIA`](https://saweria.co/Bala-Devil)
 
